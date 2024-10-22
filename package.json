@@ -1,0 +1,14 @@
+{
+  "name": "code-execution-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "runner.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "Heroku",
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "devDependencies": {}
+}
