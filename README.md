@@ -4,7 +4,7 @@ Use Heroku Dynos as a Node.js code execution environment within your AI applicat
 
 Best of all, the app is free to deploy and does not require actively running Dynos.
 
-<img src="node.png" alt="Heroku Node.js" width="540">
+<img src="node.png" alt="Heroku Node.js" width="250">
 
 ## Deploy the app on Heroku
 
